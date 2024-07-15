@@ -37,6 +37,7 @@ input {
 }
 
 #res {
+    max-width: 600px;
     background-color: #005736;
     color: white;
     border: 10px groove #F8F4BD ;
