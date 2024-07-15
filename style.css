@@ -56,3 +56,10 @@ footer {
 footer img {
     margin: 0 10px;
 }
+
+@media (max-width: 400px) {
+
+    footer img {
+        width: 32px;
+    }
+}
